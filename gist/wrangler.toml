@@ -1,0 +1,7 @@
+name = "gist"
+type = "javascript"
+
+account_id = "1e752e20ad8ac6b74a275b64f272ef76"
+workers_dev = true
+route = "gist.linjinbao.tk/*"
+zone_id = "02b23e0f77225f085046a173e2402a25"

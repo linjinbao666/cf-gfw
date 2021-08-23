@@ -1,0 +1,13 @@
+name = "taobao"
+type = 'webpack'
+account_id = '1e752e20ad8ac6b74a275b64f272ef76'
+route = 'taobao.linjinbao.tk'
+zone_id = '02b23e0f77225f085046a173e2402a25'
+usage_model = ''
+workers_dev = true
+
+[build]
+command = "npm install && npm run build"
+
+[build.upload]
+format = "service-worker"
