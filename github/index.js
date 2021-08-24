@@ -9,7 +9,7 @@ const upstreamMobile = 'github.com'
 const useHttps = true
 
 // 禁止使用该 worker 的国家代码
-const blockedRegion = ['KP', 'SY', 'PK', 'CU']
+const blockedRegion = []
 
 // 禁止使用该 worker 的 ip 地址
 const blockedIp = ['0.0.0.0', '127.0.0.1']
