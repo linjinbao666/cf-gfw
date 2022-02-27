@@ -23,7 +23,7 @@
     "iconv-lite": "^0.6.2",
     "pako": "^1.0.11",
     "query-string": "^6.11.1",
-    "url-parse": "^1.4.7"
+    "url-parse": "^1.5.8"
   },
   "devDependencies": {
     "axios": "^0.21.1",
