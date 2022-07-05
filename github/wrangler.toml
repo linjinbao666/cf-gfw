@@ -1,5 +1,4 @@
 name = "github"
-type = "javascript"
-
+main = "src/index.ts"
+compatibility_date = "2022-07-05"
 account_id = "1e752e20ad8ac6b74a275b64f272ef76"
-workers_dev = true

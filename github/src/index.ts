@@ -151,3 +151,4 @@ async function replaceResponseText(response, upstreamDomain, workerDomain) {
 
   return text;
 }
+
