@@ -7,7 +7,7 @@ const {CookieAccessInfo, CookieJar, Cookie} = cookiejar
 
 let config = {
     httpprefix: 'https', port: 443,
-    serverName: 'gfw.linjinbao66.workers.dev',
+    serverName: 'gfw.amrom.workers.dev',
 }
 let blockedSites = ['www.chase.com'] // accessing to chase.com was reported by google
 
