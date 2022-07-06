@@ -17,3 +17,9 @@ CLOUDFLARE_API_TOKEN=""
 CLOUDFLARE_ACCOUNT_ID=""
 ```
 
+## 部分代理站点
+
+- https://github.amrom.workers.dev
+- https://gfw.amrom.workers.dev
+- https://gh.amrom.workers.dev
+
