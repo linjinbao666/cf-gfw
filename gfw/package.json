@@ -17,7 +17,7 @@
   "author": "netptop",
   "license": "MIT",
   "dependencies": {
-    "cookiejar": "^2.1.2",
+    "cookiejar": "^2.1.4",
     "express": "^4.17.1",
     "http-proxy-middleware": "^0.20.0",
     "iconv-lite": "^0.6.2",
